@@ -419,8 +419,8 @@ blockquote {
   }
 
   body.light-mode{
-    background-color: var(--truth-text);
-    color: var(--watchdog-white);
+    background-color: var(--watchdog-white);
+    color:var(--truth-text);
   }
 
   #featured-articles article {
